@@ -1,0 +1,21 @@
+h1 {
+    background-color: gray;
+    padding: 15 px;
+    text-align: center;
+}
+
+.name{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.box-1{
+    height: 200px;
+    background-color: red;
+    width: 50%;
